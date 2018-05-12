@@ -1,0 +1,36 @@
+_repo: Unterm-Birnbaum_26686
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fontane, Theodor
+    aliases:
+    - Fontane, Teodor
+    - Fontane, Henri Theodore
+    - Fontane, Henri Théodore
+    birthdate: 1819
+    deathdate: 1898
+    gutenberg_agent_id: '1765'
+    url: http://www.gutenberg.org/2009/agents/1765
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Theodor_Fontane
+    - http://en.wikipedia.org/wiki/Theodor_Fontane
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2008-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26686'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Detective and mystery stories, German'
+- !lcc 'PT'
+- !lcsh 'Germany, Northern -- Fiction'
+title: Unterm Birnbaum
+url: http://www.gutenberg.org/ebooks/26686
