@@ -18,6 +18,8 @@ creator:
     - http://de.wikipedia.org/wiki/Theodor_Fontane
     - http://en.wikipedia.org/wiki/Theodor_Fontane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26686#Unterm-Birnbaum
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2008-09-21'
 gutenberg_type: Text
